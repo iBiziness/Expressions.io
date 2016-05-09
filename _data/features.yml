@@ -1,26 +1,37 @@
-#  header: The Product Features
+
+
+
+
+
+
+
+
+
+
+
+  header: Our Consultation Services
 #  intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-#  items:
-#    - title: Feature One
-#      description: Awesome Feature Blah Blah Blah
-#      icon: fa-paper-plane-o
-#
-#    - title: Feature Two
-#      description: Awesome Feature Blah Blah Blah
-#      icon: fa-laptop
-#
-#    - title: Feature Three
-#      description: Awesome Feature Blah Blah Blah
-#      icon: fa-code
-#
-#    - title: Feature Four
-#      description: Awesome Feature Blah Blah Blah
-#      icon: fa-headphones
-#
-#    - title: Feature Five
-#      description: Awesome Feature Blah Blah Blah
-#      icon: fa-heart-o
-#
-#    - title: Feature Six
-#      description: Awesome Feature Blah Blah Blah
-#      icon: fa-flag-o
+  items:
+    - title: Web Architecture Design
+      description: Researching the best technologies and solutions for advancing the business application.
+      icon: fa-paper-plane-o
+
+    - title: Web Application Request For Proposal
+      description: Defining and preparing a request for proposal document to implement the business application.
+      icon: fa-laptop
+
+    - title: Database Structure Design
+      description: Designing the database structure for the business application.
+      icon: fa-code
+
+    - title: System Migration Plan
+      description: Planning the system migration from legacy to state-of-the-art.
+      icon: fa-headphones
+
+    - title: Process Design
+      description: Designing business workflows into the business application.
+      icon: fa-heart-o
+
+    - title: Project Supervision
+      description: Overseeing the work of development staff for quality and compliance.
+      icon: fa-flag-o
