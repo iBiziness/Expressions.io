@@ -14,7 +14,7 @@
   items:
     - title: Web Architecture Design
       description: Researching the best technologies and solutions for advancing the business application.
-      icon: fa-paper-plane-o
+      icon: fa-code
 
     - title: Web Application Request For Proposal
       description: Defining and preparing a request for proposal document to implement the business application.
@@ -22,11 +22,11 @@
 
     - title: Database Structure Design
       description: Designing the database structure for the business application.
-      icon: fa-code
+      icon: fa-database
 
     - title: System Migration Plan
       description: Planning the system migration from legacy to state-of-the-art.
-      icon: fa-headphones
+      icon: fa-binoculars
 
     - title: Process Design
       description: Designing business workflows into the business application.
