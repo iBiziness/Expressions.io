@@ -4,12 +4,12 @@
 # Site settings
 title: Expressions
 headline: |
-  User Experience Design Studio
+  Technology Consultation Agency
 description: Expressions is a consultation agency that focus on information technology to help governments and enterprises to implement the best technology stack in order to achieve their business goals along with maximizing the potential of information technology, we aim to bridge the gap between business entities and development entities.
 logo: /images/expressions_logo_white.png
 owner: Information Business # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: ipay@ib.sa
+email: expressions@ib.sa
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://expressions.io" # the base hostname & protocol for your site
 project-url: http://ib.sa/projects/expressions
