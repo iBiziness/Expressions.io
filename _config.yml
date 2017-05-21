@@ -17,7 +17,7 @@ logo: "/images/expressions_logo.png"
 owner: Information Business
 first_published: 2016
 email: ipay@ib.sa
-baseurl: ''
+baseurl: 
 url: http://expressions.io
 project-url: http://ib.sa/projects/expressions
 contact-url: http://ib.sa/#contact
